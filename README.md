@@ -1,7 +1,7 @@
 # Primeiro Projeto Orientação Objeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/180666115-73e3a611-5a91-439b-9482-baad17fd77d5.PNG"></img>
+<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/210822152-abd297d7-25d1-4cdd-93b4-271e2791f491.JPG"></img>
 </a>
 
 <a href="#">
