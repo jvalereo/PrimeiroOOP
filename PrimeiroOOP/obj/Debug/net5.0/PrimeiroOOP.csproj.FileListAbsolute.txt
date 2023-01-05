@@ -1,0 +1,16 @@
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\PrimeiroOOP.exe
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\PrimeiroOOP.deps.json
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\PrimeiroOOP.runtimeconfig.json
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\PrimeiroOOP.runtimeconfig.dev.json
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\PrimeiroOOP.dll
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\ref\PrimeiroOOP.dll
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\bin\Debug\net5.0\PrimeiroOOP.pdb
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.csproj.AssemblyReference.cache
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.AssemblyInfoInputs.cache
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.AssemblyInfo.cs
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.dll
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\ref\PrimeiroOOP.dll
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.pdb
+C:\Users\Jonas Programador\source\repos\PrimeiroOOP\PrimeiroOOP\obj\Debug\net5.0\PrimeiroOOP.genruntimeconfig.cache
