@@ -4,6 +4,12 @@
 <img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/210822152-abd297d7-25d1-4cdd-93b4-271e2791f491.JPG"></img>
 </a>
 
+#Classe Dados do Projeto#
+
+<a href="#">
+<img align="center"  alt="jonas-Layout" height ="400" width ="650" src ="https://user-images.githubusercontent.com/25933386/210822396-9148b0a1-3c88-476a-bb4a-557019943513.JPG"></img>
+</a>
+
 <a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img>
 </a>
